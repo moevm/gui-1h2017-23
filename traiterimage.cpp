@@ -1,5 +1,5 @@
 
-#include "TraiterImage.h"
+#include "traiterimage.h"
 #include <assert.h>
 #include <iostream>
 using namespace std;

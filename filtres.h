@@ -1,7 +1,7 @@
 #ifndef FILTRES_H
 #define FILTRES_H
 #include "mainwindow.h"
-#include "TraiterImage.h"
+#include "traiterimage.h"
 
 class Filtres : public MainWindow
 {

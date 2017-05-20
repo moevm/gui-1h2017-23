@@ -12,7 +12,7 @@
 //QT_END_NAMESPACE
 
 
-#include "TraiterImage.h"
+#include "traiterimage.h"
 
 namespace Ui {
 class MainWindow;
